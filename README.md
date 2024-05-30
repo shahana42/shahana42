@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shahana-shaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahana" height="30" width="40" /></a>
 <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahana" height="30" width="40" /></a>
-<a href="[https://www.instagram.com/sha_ha_na?igsh=MWw2ZTg0Zm1kcDlvaA==](https://www.instagram.com/sha__h__a__na?igsh=amtham5vYXZmcHo3)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahana" height="30" width="40" /></a>
+<a href="[[https://www.instagram.com/sha_ha_na?igsh=MWw2ZTg0Zm1kcDlvaA==](https://www.instagram.com/sha__h__a__na?igsh=amtham5vYXZmcHo3)](https://www.instagram.com/sha__h__a__na?igsh=amtham5vYXZmcHo3)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
